@@ -1,4 +1,4 @@
-<h4 align="center">Hii!!! i am Slash :)<br><br>i love terminals, clean uis, linux & ricing my i3wm :3<br><br>a cs undergrad, spending my time building modern web apps with react and tailwind css. i'm just trying to build cool things for the web, and maybe figure out a portfolio along the way.</h4>
+<h4 align="center">Hii!!! i am Slash :)<br><br>i love terminals, clean uis, linux & ricing my i3wm :3<br><br>a cs undergrad, spending my time building web apps with react and tailwind css. i'm just trying to build cool things for the web, and maybe figure out a portfolio along the way.</h4>
 
 ###
 
